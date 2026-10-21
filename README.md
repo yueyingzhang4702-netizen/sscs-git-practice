@@ -9,3 +9,8 @@ Today I learned:
 - How to edit a file
 - How to make a commit
 - How to create a pull request
+
+# sscs-first-meeting
+
+-ISA vs. microarchitecture
+-Why RISC-V
